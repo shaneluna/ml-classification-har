@@ -130,3 +130,10 @@ dmypy.json
 
 # Raw Data
 wisdm-dataset/
+wisdm-dataset.zip
+
+# Dask
+dask-worker-space/
+
+# Mac
+.DS_Store
