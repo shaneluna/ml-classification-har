@@ -5,4 +5,4 @@
     sudo service docker start
 4) Run launch.sh to start Jupyter Lab
 5) Launch a new terminal in Jupyter Lab and navigate to the directory with requirements.txt. Then run "pip3 install -r requirements.txt" to install dependencies.
-6) Run all of the cells of the Project_dask.ipynb(base)
+6) Run all of the cells of the Project_dask.ipynb
